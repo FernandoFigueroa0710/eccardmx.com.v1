@@ -4,7 +4,6 @@ import Toolbar from "@material-ui/core/Toolbar";
 import Grid from "@material-ui/core/Grid";
 
 import { EccardLogo } from "../../utils/Icons";
-import { NavButton } from "../../utils/Button";
 
 import About from "../about_us/About";
 import Login from "../login /Login";
